@@ -10,8 +10,10 @@
 ![9](https://user-images.githubusercontent.com/88390574/132084532-7663922e-7b7d-4357-a580-c17f2ebbb868.png)
 ![10](https://user-images.githubusercontent.com/88390574/132084535-d0bd81f6-7a33-49bd-94d7-001b5c226ca0.png)
 ![11](https://user-images.githubusercontent.com/88390574/132084538-dcafc4fd-ce97-45b6-acc2-ba24d831a49e.png)
+
 Patient's Dashboard
 ![12](https://user-images.githubusercontent.com/88390574/132084551-4aadb3c2-0ee6-4daf-8190-4dc0cd89ffb1.png)
 ![13](https://user-images.githubusercontent.com/88390574/132084554-ea5e1692-ffae-4539-af0e-231981953310.png)
+
 Doctor's Dashboard
 ![14](https://user-images.githubusercontent.com/88390574/132084567-3e05ad58-38c7-4551-ab5c-be4ca953dd29.png)
