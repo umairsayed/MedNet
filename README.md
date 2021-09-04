@@ -1,1 +1,1 @@
-# MedNet
+# MedNet Project Snapshots
